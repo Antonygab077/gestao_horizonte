@@ -170,10 +170,10 @@ O histórico abaixo apresenta uma proposta para organizar as futuras entregas. A
 
 | Versão planejada | Descrição | Situação |
 |---|---|---|
-| `v1.0.0` | Primeira entrega documentada do protótipo. | Planejada |
-| `v1.1.0` | Evolução das páginas e dos módulos. | Planejada |
-| `v1.2.0` | Correções e melhorias de navegação e apresentação. | Planejada |
-| `v2.0.0` | Consolidação do protótipo e revisão final. | Planejada |
+| `v0.1.0` | Primeira entrega documentada do protótipo. | Planejada |
+| `v0.2.0` | Evolução das páginas e dos módulos. | Planejada |
+| `v0.3.0` | Correções e melhorias de navegação e apresentação. | Planejada |
+| `v1.0.0` | Consolidação do protótipo e revisão final. | Planejada |
 
 Essas versões são apenas uma sugestão de organização e ainda não foram publicadas.
 
